@@ -4,7 +4,7 @@ import 'package:get/get.dart';
 import 'package:intl/intl.dart';
 import 'package:datetime_picker_formfield/datetime_picker_formfield.dart';
 import 'package:reminder_app/constants/constants.dart';
-import 'file:///C:/Users/marou/AndroidStudioProjects/reminder_app/lib/widgets/dialog_widget.dart';
+import 'package:reminder_app/widgets/dialog_widget.dart';
 import 'package:reminder_app/models/reminder.dart';
 class EditWidget extends StatefulWidget {
   final Function edit;

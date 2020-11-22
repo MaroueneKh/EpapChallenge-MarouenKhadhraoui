@@ -1,14 +1,15 @@
 
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'file:///C:/Users/marou/AndroidStudioProjects/reminder_app/lib/widgets/edit_widget.dart';
+
 import 'package:reminder_app/models/db_wrapper.dart';
 import 'package:reminder_app/models/reminder.dart';
-import 'file:///C:/Users/marou/AndroidStudioProjects/reminder_app/lib/widgets/reminder_widget.dart';
-import 'file:///C:/Users/marou/AndroidStudioProjects/reminder_app/lib/widgets/addreminder.dart';
+import 'package:reminder_app/widgets/addreminder.dart';
+import 'package:reminder_app/widgets/edit_widget.dart';
 import 'package:reminder_app/constants/constants.dart';
 import 'package:flutter_local_notifications/flutter_local_notifications.dart';
 import 'package:reminder_app/utils/utils.dart';
+import 'package:reminder_app/widgets/reminder_widget.dart';
 
 void main() {
   runApp(MyApp());

@@ -1,7 +1,3 @@
-/**
- * Created by Mahmud Ahsan
- * https://github.com/mahmudahsan
- */
 import 'dart:io';
 import 'package:sqflite/sqflite.dart';
 import 'package:path/path.dart';

@@ -2,8 +2,6 @@ import 'dart:async';
 
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:flutter_staggered_grid_view/flutter_staggered_grid_view.dart';
-import 'package:reminder_app/main.dart';
 import 'package:reminder_app/models/reminder.dart';
 import 'package:reminder_app/utils/colors.dart';
 import 'package:reminder_app/utils/utils.dart';

@@ -41,6 +41,7 @@ class _DialogWidgetState extends State<DialogWidget> {
   final timeformat = DateFormat("HH:mm:ss");
   @override
   void initState() {
+
     chosentime = widget.reminder.repetition;
 
     titleController.value = TextEditingValue(
